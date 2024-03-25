@@ -50,6 +50,25 @@ At Ramadan Labs, we cover a comprehensive curriculum designed to take you from t
 **App Name:** Tasky  
 **Caption:** "Simplify Your Tasks, Amplify Your Productivity"
 
+## How does it work ?
+
+```
+git clone https://github.com/khaouitiabdelhakim/PFs-GESTIONNER.git
+
+cd Final-Project
+
+composer install
+
+copy .env.example .env
+
+php artisan key:generate
+
+php artisan migrate
+ 
+php artisan serve
+
+```
+
 Tasky is our flagship project, designed to streamline task management and boost productivity. With Tasky, you can organize your tasks effortlessly and stay focused on what matters most. Throughout our journey, we'll build Tasky using various frameworks, showcasing the versatility and power of each technology stack.
 
 ## Support Us
