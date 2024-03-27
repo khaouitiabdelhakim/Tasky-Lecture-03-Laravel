@@ -55,7 +55,7 @@ At Ramadan Labs, we cover a comprehensive curriculum designed to take you from t
 ```
 git clone https://github.com/khaouitiabdelhakim/Tasky-Lecture-03-Laravel.git
 
-cd Final-Project
+cd Tasky-Lecture-03-Laravel
 
 composer install
 
